@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-divina/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión divina](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-divina/) |
+| **Get License** | [Obtain a Music License for Pasión divina](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-divina/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu piel llama sin hablar, fuego en la oscuridad
+> Las caderas van marcando el compás de la ciudad
+> Noche late en el asfalto, sueños de electricidad
+> Pasión divina, no me dejes escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
